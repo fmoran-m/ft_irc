@@ -6,7 +6,6 @@ Ft_irc is a simple IRC (Internet Relay Chat) server written in C++. It allows us
 
 - **IRC Protocol Implementation**: A custom IRC server based on the Internet Relay Chat protocol.
 - **Channel Management**: Users can create and join channels to communicate with others.
-- **User Communication**: Supports user-to-user chat through private messages and public messages within channels.
 - **Password Protection**: The server requires a password to connect, adding a layer of security.
 
 ## How to Use
